@@ -1,0 +1,49 @@
+.navbar{
+border-radius: 3px;
+display: block;
+
+background: url("../image/header image.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.links{
+    font-size: 20px;
+   
+    width: 550px;
+    margin-left: 550px;
+}
+.links li :hover{
+color: blue;
+font-size: 25px;
+}
+
+marquee{
+    color: white;
+ font-size: 30px;
+}
+#Myportfolio{
+font-size: 30px;
+margin-left: 800px;
+color: salmon;
+}
+#Aboutme h5{
+   font-size: 50px;
+   margin-left: 500px;
+
+}
+
+#Aboutme h3{
+    display: block;
+}
+#aboutme{
+    display: block;
+    margin-top: 2000x;
+    
+}
+strong{
+    color: green;
+}
+.offcanvas {
+    overflow-y: auto;
+    
+}

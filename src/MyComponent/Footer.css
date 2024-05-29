@@ -1,0 +1,17 @@
+.Footer {
+
+  left: 0;
+  bottom: 0;
+
+  background: url("../image/image.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#FooterImg {
+  border-radius: 50%; /* Adjusted for a circular shape */
+  width: 50px;
+  margin-bottom: 20px; /* Add margin to separate the image from text */
+}
